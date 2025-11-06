@@ -2,7 +2,6 @@ import React from 'react';
 import Hero from './components/Hero';
 import HowItWorks from './components/HowItWorks';
 import Features from './components/Features';
-import TechAndRoles from './components/TechAndRoles';
 import TestimonialsAndCTA from './components/TestimonialsAndCTA';
 
 function App() {
@@ -11,7 +10,6 @@ function App() {
       <Hero />
       <HowItWorks />
       <Features />
-      <TechAndRoles />
       <TestimonialsAndCTA />
     </div>
   );
